@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zing.zalo.zalosdk:openapi:2.5.0915@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/508ba6be113cce782f2bb7ad405bb7eb/jetified-openapi-2.5.0915/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/508ba6be113cce782f2bb7ad405bb7eb/jetified-openapi-2.5.0915/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/508ba6be113cce782f2bb7ad405bb7eb/jetified-openapi-2.5.0915/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zing.zalo.zalosdk/openapi/2.5.0915/4d73c037c9d698ab6b98d39627403d03193cf131/openapi-2.5.0915-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

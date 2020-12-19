@@ -1,0 +1,4 @@
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:45
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:45
+-keep class com.alpha.sample.Application { <init>(); }

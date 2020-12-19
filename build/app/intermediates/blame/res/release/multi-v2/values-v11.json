@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\alphasample\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hophu\\.gradle\\caches\\transforms-2\\files-2.1\\8eff015e9b151163ffe7784a55da9493\\jetified-auth-2.5.1019\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,109",
+                        "endLines": "2,5",
+                        "endColumns": "53,12",
+                        "endOffsets": "104,241"
+                    }
+                }
+            ]
+        }
+    ]
+}

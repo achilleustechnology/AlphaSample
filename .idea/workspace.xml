@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="438c824b-7db6-454e-b381-7e8deb992115" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1htfnTAtwjrkgsPpcfbUBH6iuZE" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk/platform-tools" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\alphasample\lib\views\admod" />
+      <recent name="D:\alphasample\lib\views\login_success" />
+      <recent name="D:\alphasample\lib\views\login\bloc" />
+      <recent name="D:\alphasample\lib\repositories" />
+      <recent name="D:\alphasample\lib\models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="438c824b-7db6-454e-b381-7e8deb992115" name="Default Changelist" comment="" />
+      <created>1600835475873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600835475873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="224" y="75" key="#JSON_Schema_Mappings" timestamp="1603772142682">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="224" y="75" key="#JSON_Schema_Mappings/0.0.1536.834@0.0.1536.834" timestamp="1603772142682" />
+    <state x="499" y="172" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601526385335">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="172" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1601526385335" />
+    <state x="624" y="191" key="AndroidProcessChooserDialog" timestamp="1601431972642">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="624" y="191" key="AndroidProcessChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1601431972642" />
+    <state x="649" y="91" key="FileChooserDialogImpl" timestamp="1605493557471">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="649" y="91" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605493557471" />
+    <state width="1491" height="80" key="GridCell.Tab.0.bottom" timestamp="1605493566156">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="80" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605493566156" />
+    <state width="1491" height="80" key="GridCell.Tab.0.center" timestamp="1605493566155">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="80" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605493566155" />
+    <state width="1491" height="80" key="GridCell.Tab.0.left" timestamp="1605493566155">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="80" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605493566155" />
+    <state width="1491" height="80" key="GridCell.Tab.0.right" timestamp="1605493566156">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="80" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605493566155" />
+    <state x="349" y="160" key="IDE.errors.dialog" timestamp="1601549626183">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="160" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1601549626183" />
+    <state x="481" y="141" key="MultipleFileMergeDialog" timestamp="1601546660391">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="481" y="141" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1601546660391" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1608368266431">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608368266431" />
+    <state x="221" y="149" key="Vcs.Push.Dialog.v2" timestamp="1603941380615">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="221" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603941380615" />
+    <state x="100" y="108" width="1336" height="634" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1605493177181">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="100" y="108" width="1336" height="634" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.834@0.0.1536.834" timestamp="1605493177181" />
+    <state x="100" y="108" width="1336" height="634" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1601951837737">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="100" y="108" width="1336" height="634" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1601951837737" />
+    <state x="103" y="82" width="1336" height="634" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603882216328">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="103" y="82" width="1336" height="634" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1603882216328" />
+    <state x="432" y="165" width="877" height="536" key="find.popup" timestamp="1608365462137">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="432" y="165" width="877" height="536" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1608365462137" />
+    <state x="548" y="130" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603771151558">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="130" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.834@0.0.1536.834" timestamp="1603771151558" />
+    <state x="533" y="320" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608368647193">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="533" y="320" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.834@0.0.1536.834" timestamp="1608368647193" />
+    <state width="514" height="175" key="javadoc.popup.new" timestamp="1603883267343">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="514" height="175" key="javadoc.popup.new/0.0.1536.834@0.0.1536.834" timestamp="1603883267343" />
+    <state x="426" y="195" key="run.anything.popup" timestamp="1603946106955">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="426" y="195" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1603946106955" />
+    <state x="430" y="155" width="672" height="676" key="search.everywhere.popup" timestamp="1602040060192">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="430" y="155" width="672" height="676" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1602040060192" />
+  </component>
+</project>

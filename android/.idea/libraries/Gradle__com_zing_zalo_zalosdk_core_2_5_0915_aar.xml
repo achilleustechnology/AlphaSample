@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zing.zalo.zalosdk:core:2.5.0915@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c996c13159cabae7c1f3ba7a580d286b/core-2.5.0915/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c996c13159cabae7c1f3ba7a580d286b/core-2.5.0915/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c996c13159cabae7c1f3ba7a580d286b/core-2.5.0915/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zing.zalo.zalosdk/core/2.5.0915/f7a12c2ccaaf8206012ca313dd7a454d7ac400d4/core-2.5.0915-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

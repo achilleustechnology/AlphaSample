@@ -1,0 +1,213 @@
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:45
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:458
+-keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:178
+-keep class androidx.work.impl.WorkManagerInitializer { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:207
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:217
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:237
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:227
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:257
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:246
+-keep class androidx.work.impl.background.systemalarm.RescheduleReceiver { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:185
+-keep class androidx.work.impl.background.systemalarm.SystemAlarmService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:190
+-keep class androidx.work.impl.background.systemjob.SystemJobService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:266
+-keep class androidx.work.impl.diagnostics.DiagnosticsReceiver { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:196
+-keep class androidx.work.impl.foreground.SystemForegroundService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:202
+-keep class androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:45
+-keep class com.alpha.sample.Application { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:60
+-keep class com.alpha.sample.MainActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:321
+-keep class com.amolg.flutterbarcodescanner.BarcodeCaptureActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:102
+-keep class com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:101
+-keep class com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:432
+-keep class com.facebook.CampaignTrackingReceiver { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:425
+-keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:118
+-keep class com.facebook.CustomTabActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:176
+-keep class com.facebook.CustomTabMainActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:113
+-keep class com.facebook.FacebookActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:420
+-keep class com.facebook.internal.FacebookInitProvider { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:441
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:454
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:448
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:357
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:369
+-keep class com.google.android.gms.ads.AdService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:363
+-keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:383
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:374
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:391
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:337
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:327
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:333
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:282
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:343
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:312
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:352
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:135
+-keep class com.zing.zalo.zalosdk.oauth.BrowserLoginActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:400
+-keep class com.zing.zalo.zalosdk.oauth.OpenAPIActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:405
+-keep class com.zing.zalo.zalosdk.oauth.WebLoginActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:277
+-keep class io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:322
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+# Referenced at D:\alphasample\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:166
+-keep class vn.hunghd.flutterdownloader.DownloadedFileProvider { <init>(); }
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_alert_dialog_title_material.xml:57
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\8a77c97d983b902e39f306ca00173180\jetified-facebook-common-5.5.1\res\layout\com_facebook_smart_device_dialog_fragment.xml:47
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\8a77c97d983b902e39f306ca00173180\jetified-facebook-common-5.5.1\res\layout\com_facebook_device_auth_dialog_fragment.xml:45
+-keep class androidx.appcompat.widget.AppCompatImageView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\1503f3b2ba8f1c138224c2c215e1e52c\browser-1.2.0\res\layout\browser_actions_context_menu_page.xml:17
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\8a77c97d983b902e39f306ca00173180\jetified-facebook-common-5.5.1\res\layout\com_facebook_smart_device_dialog_fragment.xml:22
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\8a77c97d983b902e39f306ca00173180\jetified-facebook-common-5.5.1\res\layout\com_facebook_device_auth_dialog_fragment.xml:22
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\206463ea94117f891ff43dff6c1bf44a\material-1.0.0\res\layout\design_bottom_sheet_dialog.xml:26
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\9196b7f3c197225efdd40a007d4ed304\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at D:\alphasample\build\flutter_barcode_scanner\intermediates\packaged_res\release\layout\barcode_capture.xml:10
+-keep class com.amolg.flutterbarcodescanner.camera.CameraSourcePreview { <init>(...); }
+
+# Referenced at D:\alphasample\build\flutter_barcode_scanner\intermediates\packaged_res\release\layout\barcode_capture.xml:15
+-keep class com.amolg.flutterbarcodescanner.camera.GraphicOverlay { <init>(...); }
+
+# Referenced at D:\alphasample\build\flutter_native_admob\intermediates\packaged_res\release\layout\native_admob_full_view.xml:30
+-keep class com.google.android.gms.ads.formats.MediaView { <init>(...); }
+
+# Referenced at D:\alphasample\build\flutter_native_admob\intermediates\packaged_res\release\layout\native_admob_full_view.xml:5
+# Referenced at D:\alphasample\build\flutter_native_admob\intermediates\packaged_res\release\layout\native_admob_banner_view.xml:5
+-keep class com.google.android.gms.ads.formats.UnifiedNativeAdView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\206463ea94117f891ff43dff6c1bf44a\material-1.0.0\res\layout\design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\206463ea94117f891ff43dff6c1bf44a\material-1.0.0\res\layout\design_text_input_password_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\206463ea94117f891ff43dff6c1bf44a\material-1.0.0\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\206463ea94117f891ff43dff6c1bf44a\material-1.0.0\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\206463ea94117f891ff43dff6c1bf44a\material-1.0.0\res\layout\mtrl_layout_snackbar.xml:18
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\206463ea94117f891ff43dff6c1bf44a\material-1.0.0\res\layout\design_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\206463ea94117f891ff43dff6c1bf44a\material-1.0.0\res\layout\mtrl_layout_snackbar_include.xml:18
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\206463ea94117f891ff43dff6c1bf44a\material-1.0.0\res\layout\design_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\8eff015e9b151163ffe7784a55da9493\jetified-auth-2.5.1019\res\layout\zalo_plugin_selectshare.xml:9
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\8eff015e9b151163ffe7784a55da9493\jetified-auth-2.5.1019\res\layout\protect_acc_guest.xml:8
+# Referenced at C:\Users\hophu\.gradle\caches\transforms-2\files-2.1\8eff015e9b151163ffe7784a55da9493\jetified-auth-2.5.1019\res\layout\login_activity.xml:9
+-keep class com.zing.zalo.zalosdk.payment.direct.DynamicLayout { <init>(...); }
+

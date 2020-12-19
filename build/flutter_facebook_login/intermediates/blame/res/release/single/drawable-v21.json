@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\alphasample\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\hophu\\.gradle\\caches\\transforms-2\\files-2.1\\f703e6c665d15d7fcfb74cbe7606f63c\\appcompat-1.0.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "D:\\alphasample\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\hophu\\.gradle\\caches\\transforms-2\\files-2.1\\127f83a4249effb63d18e841c6021bcd\\core-1.1.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\alphasample\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\hophu\\.gradle\\caches\\transforms-2\\files-2.1\\f703e6c665d15d7fcfb74cbe7606f63c\\appcompat-1.0.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\alphasample\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\hophu\\.gradle\\caches\\transforms-2\\files-2.1\\f703e6c665d15d7fcfb74cbe7606f63c\\appcompat-1.0.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\alphasample\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\hophu\\.gradle\\caches\\transforms-2\\files-2.1\\f703e6c665d15d7fcfb74cbe7606f63c\\appcompat-1.0.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\alphasample\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\hophu\\.gradle\\caches\\transforms-2\\files-2.1\\f703e6c665d15d7fcfb74cbe7606f63c\\appcompat-1.0.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

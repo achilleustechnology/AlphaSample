@@ -1,0 +1,4 @@
+#Fri Nov 13 14:34:42 ICT 2020
+base.0=D\:\\alphasample\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
